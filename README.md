@@ -1,38 +1,32 @@
-# propert-mini-listings
+# Property Mini Listings
 
-This template should help get you started developing with Vue 3 in Vite.
+**Trainee:** Nonhlanhla Kunene
+**Programme:** YouthCode On-Site — Cohort 18, 2026
+**Course:** Course 1 — Frontend Web Development
 
-## Recommended IDE Setup
+## Project Overview
+A responsive Vue.js single-page application for Homes & Beyond — a real estate startup focused on short-term property rentals in Cape Town. Users can browse available properties, search by title or location, sort by price, and bookmark favourite listings.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Features
+- Property listings displayed as grid-based cards
+- Search bar filtering by title or location
+- Sort toggle for price ordering (low to high / high to low)
+- Not Available badge on unavailable listings
+- Header with brand name and total property count
+- Bookmark functionality for favourite listings
 
-## Recommended Browser Setup
+## Tech Stack
+- Vue 3 (Vite)
+- JavaScript
+- HTML5
+- CSS3
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Installation and Run Instructions
+1. Clone the repository
+2. Navigate into the project folder
+3. Run `npm install`
+4. Run `npm run dev`
+5. Open your browser and go to the local address shown in the terminal
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Screenshots
+<img width="1907" height="875" alt="image" src="https://github.com/user-attachments/assets/bce134fb-4a17-4ac0-9e2b-910f28ca5430" />
